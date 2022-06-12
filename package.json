@@ -1,0 +1,29 @@
+{
+  "name": "opensurvey",
+  "version": "1.0.0",
+  "description": "An open source survey software",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sam-neale/openSurvey.git"
+  },
+  "keywords": [
+    "OpenSurvey",
+    "open",
+    "source",
+    "survey"
+  ],
+  "author": "Sam Neale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sam-neale/openSurvey/issues"
+  },
+  "homepage": "https://github.com/sam-neale/openSurvey#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "sanitizer": "^0.1.3"
+  }
+}
